@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('logging:server');
+var debug = require('debug')('bookShop:server');
 var http = require('http');
 
 /**
