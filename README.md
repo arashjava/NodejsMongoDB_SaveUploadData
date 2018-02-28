@@ -2,4 +2,6 @@
 In this project Nodejs Express is used to setup the main structure of a simple web application. Feeding some documents 
 in Mongodb collection using Nodejs Mongoose package takes place offline. Retrieving data and upload them on the main 
 webpage would be the next step to follow.
-I will prepare some documentations for doing this project step by step on my website and leave a link here in the next couple of days.
+Here is the link to my website for a comperhensive training detail to this project:
+http://arash.tech/training-nodejs-bookshop/
+
